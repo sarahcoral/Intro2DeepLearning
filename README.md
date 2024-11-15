@@ -5,7 +5,7 @@ This repository contains the study plan for learning essential concepts in machi
 
 ## Table of Contents
 
-1. Development Environments
+1. Programming for deep learning basics
 2. Machine Learning and Experiment Design
 3. Introduction to NLP
 4. Introduction to Computer Vision
